@@ -1,0 +1,654 @@
+{
+  "trendData": {
+    "salesTrend": [
+    {
+      "month": "2025-01",
+      "amount": 52300
+    },
+    {
+      "month": "2025-02",
+      "amount": 61200
+    },
+    {
+      "month": "2025-03",
+      "amount": 75800
+    },
+    {
+      "month": "2025-04",
+      "amount": 81200
+    },
+    {
+      "month": "2025-05",
+      "amount": 87400
+    },
+    {
+      "month": "2025-06",
+      "amount": 92500
+    },
+    {
+      "month": "2025-07",
+      "amount": 101200
+    },
+    {
+      "month": "2025-08",
+      "amount": 99300
+    },
+    {
+      "month": "2025-09",
+      "amount": 108900
+    },
+    {
+      "month": "2025-10",
+      "amount": 116000
+    },
+    {
+      "month": "2025-11",
+      "amount": 122400
+    },
+    {
+      "month": "2025-12",
+      "amount": 130800
+    }
+  ],
+  "userGrowth": [
+    {
+      "month": "2025-01",
+      "count": 320
+    },
+    {
+      "month": "2025-02",
+      "count": 410
+    },
+    {
+      "month": "2025-03",
+      "count": 560
+    },
+    {
+      "month": "2025-04",
+      "count": 720
+    },
+    {
+      "month": "2025-05",
+      "count": 850
+    },
+    {
+      "month": "2025-06",
+      "count": 900
+    },
+    {
+      "month": "2025-07",
+      "count": 1040
+    },
+    {
+      "month": "2025-08",
+      "count": 980
+    },
+    {
+      "month": "2025-09",
+      "count": 1150
+    },
+    {
+      "month": "2025-10",
+      "count": 1280
+    },
+    {
+      "month": "2025-11",
+      "count": 1360
+    },
+    {
+      "month": "2025-12",
+      "count": 1480
+    }
+  ],
+  "orderTrend": [
+    {
+      "month": "2025-01",
+      "count": 1100
+    },
+    {
+      "month": "2025-02",
+      "count": 1350
+    },
+    {
+      "month": "2025-03",
+      "count": 1580
+    },
+    {
+      "month": "2025-04",
+      "count": 1660
+    },
+    {
+      "month": "2025-05",
+      "count": 1820
+    },
+    {
+      "month": "2025-06",
+      "count": 1980
+    },
+    {
+      "month": "2025-07",
+      "count": 2110
+    },
+    {
+      "month": "2025-08",
+      "count": 2250
+    },
+    {
+      "month": "2025-09",
+      "count": 2400
+    },
+    {
+      "month": "2025-10",
+      "count": 2570
+    },
+    {
+      "month": "2025-11",
+      "count": 2730
+    },
+    {
+      "month": "2025-12",
+      "count": 2900
+    }
+  ],
+  "trafficTrend": [
+    {
+      "month": "2025-01",
+      "pv": 15000
+    },
+    {
+      "month": "2025-02",
+      "pv": 17600
+    },
+    {
+      "month": "2025-03",
+      "pv": 19100
+    },
+    {
+      "month": "2025-04",
+      "pv": 21000
+    },
+    {
+      "month": "2025-05",
+      "pv": 23500
+    },
+    {
+      "month": "2025-06",
+      "pv": 24800
+    },
+    {
+      "month": "2025-07",
+      "pv": 26200
+    },
+    {
+      "month": "2025-08",
+      "pv": 27500
+    },
+    {
+      "month": "2025-09",
+      "pv": 29500
+    },
+    {
+      "month": "2025-10",
+      "pv": 31000
+    },
+    {
+      "month": "2025-11",
+      "pv": 32800
+    },
+    {
+      "month": "2025-12",
+      "pv": 34200
+    }
+  ]
+  },
+  "radarData": {
+    "digital": [
+      [3500, 1200, 230, 0.19, 620, 12, 1],
+      [4200, 1500, 280, 0.18, 710, 15, 2],
+      [3900, 1350, 260, 0.192, 680, 13, 3],
+      [4500, 1600, 300, 0.187, 740, 18, 4],
+      [5200, 1800, 340, 0.188, 820, 20, 5],
+      [6100, 2100, 400, 0.19, 950, 22, 6],
+      [6800, 2300, 440, 0.192, 1020, 24, 7],
+      [7200, 2400, 465, 0.193, 1100, 25, 8],
+      [8800, 3100, 600, 0.193, 1430, 28, 9],
+      [7600, 2700, 510, 0.189, 1240, 30, 10],
+      [4200, 1500, 260, 0.173, 670, 15, 11],
+      [3500, 1200, 230, 0.191, 620, 13, 12],
+      [4900, 1700, 320, 0.188, 790, 17, 13],
+      [6800, 2400, 450, 0.187, 1120, 23, 14],
+      [6500, 2300, 430, 0.187, 1060, 21, 15],
+      [3300, 1100, 210, 0.19, 540, 12, 16],
+      [5400, 1850, 350, 0.189, 880, 19, 17],
+      [7900, 2700, 520, 0.192, 1250, 30, 18],
+      [4200, 1500, 260, 0.175, 710, 13, 19],
+      [2900, 950, 160, 0.168, 450, 10, 20],
+      [3100, 1000, 175, 0.175, 490, 11, 21],
+      [5800, 2000, 380, 0.19, 950, 20, 22],
+      [6200, 2150, 400, 0.186, 1020, 22, 23],
+      [3300, 1150, 200, 0.174, 560, 14, 24],
+      [4100, 1400, 240, 0.171, 610, 15, 25],
+      [9200, 3200, 650, 0.203, 1550, 32, 26],
+      [10800, 3700, 780, 0.21, 1880, 35, 27],
+      [8300, 2800, 570, 0.203, 1300, 26, 28],
+      [7600, 2600, 520, 0.20, 1200, 24, 29],
+      [4100, 1400, 230, 0.164, 500, 14, 30],
+      [3900, 1200, 210, 0.158, 460, 12, 31]
+    ],
+    "beauty": [
+      [1800, 700, 120, 0.171, 410, 12, 1],
+      [2100, 780, 150, 0.192, 430, 13, 2],
+      [2600, 860, 170, 0.198, 460, 12, 3],
+      [3000, 920, 190, 0.206, 520, 13, 4],
+      [3200, 1000, 200, 0.20, 540, 14, 5],
+      [3400, 1100, 220, 0.20, 590, 13, 6],
+      [3600, 1200, 230, 0.191, 620, 12, 7],
+      [3900, 1300, 260, 0.20, 710, 14, 8],
+      [4200, 1400, 270, 0.193, 720, 15, 9],
+      [4500, 1500, 290, 0.193, 760, 16, 10],
+      [2200, 800, 140, 0.175, 480, 12, 11],
+      [2600, 900, 160, 0.177, 500, 12, 12],
+      [3100, 1050, 190, 0.181, 570, 14, 13],
+      [3300, 1100, 205, 0.186, 590, 15, 14],
+      [3500, 1150, 210, 0.182, 610, 14, 15],
+      [1700, 600, 90, 0.15, 320, 8, 16],
+      [2000, 700, 120, 0.171, 420, 12, 17],
+      [4600, 1550, 300, 0.193, 810, 16, 18],
+      [3900, 1300, 260, 0.20, 690, 14, 19],
+      [3600, 1200, 240, 0.20, 620, 14, 20],
+      [3100, 1000, 210, 0.21, 580, 13, 21],
+      [3300, 1100, 230, 0.20, 610, 12, 22],
+      [3800, 1300, 260, 0.20, 720, 14, 23],
+      [4400, 1500, 300, 0.20, 770, 15, 24],
+      [4700, 1600, 320, 0.20, 820, 17, 25],
+      [4200, 1400, 270, 0.19, 720, 15, 26],
+      [4200, 1500, 330, 0.22, 840, 20, 7],
+      [3800, 1380, 270, 0.195, 690, 17, 8],
+      [5000, 1750, 330, 0.188, 870, 21, 9],
+      [5600, 1900, 350, 0.184, 920, 23, 10],
+      [3500, 1200, 220, 0.183, 580, 19, 11],
+      [3300, 1100, 210, 0.191, 560, 20, 12],
+      [3700, 1300, 260, 0.20, 720, 16, 13],
+      [4900, 1800, 340, 0.189, 860, 18, 14],
+      [4300, 1620, 300, 0.185, 790, 16, 15],
+      [3800, 1300, 240, 0.18, 650, 14, 16],
+      [2600, 900, 150, 0.166, 490, 12, 17],
+      [3400, 1260, 210, 0.166, 620, 18, 18],
+      [4800, 1700, 310, 0.182, 900, 22, 19],
+      [5000, 1850, 330, 0.178, 940, 21, 20],
+      [3300, 1150, 190, 0.165, 550, 14, 21],
+      [4200, 1500, 260, 0.173, 730, 16, 22],
+      [4500, 1640, 280, 0.171, 780, 15, 23],
+      [5500, 2000, 370, 0.185, 1000, 22, 24],
+      [6000, 2100, 390, 0.186, 1030, 25, 25],
+      [5800, 1900, 320, 0.168, 900, 20, 26],
+      [4700, 1650, 300, 0.181, 830, 18, 27],
+      [3900, 1450, 260, 0.179, 720, 16, 28],
+      [5200, 1750, 310, 0.177, 890, 19, 29],
+      [4900, 1620, 280, 0.173, 810, 18, 30],
+      [5100, 1680, 290, 0.172, 830, 17, 31]
+    ]
+  },
+  "nightingaleData": [
+    { "value": 5200, "name": "自然流量" },
+    { "value": 4800, "name": "付费广告" },
+    { "value": 4300, "name": "社交媒体" },
+    { "value": 3900, "name": "短视频平台" },
+    { "value": 3600, "name": "联营合作" },
+    { "value": 3100, "name": "内容社区" },
+    { "value": 2700, "name": "直播带货" },
+    { "value": 2200, "name": "其他渠道" }
+  ],
+  "barChartData": {
+    "categories": ["周一", "周二", "周三", "周四", "周五", "周六", "周日"],
+    "series": [
+      {
+        "name": "订单量",
+        "type": "bar",
+        "stack": "a",
+        "data": [320, 410, 380, 290, 340, 390, 420]
+      },
+      {
+        "name": "退款量",
+        "type": "bar",
+        "stack": "a",
+        "data": [15, 22, 18, "-", 10, "-", 8]
+      },
+      {
+        "name": "访问贡献",
+        "type": "bar",
+        "stack": "a",
+        "data": [60, "-", 30, 45, 25, "-", 20]
+      },
+      {
+        "name": "促销A",
+        "type": "bar",
+        "stack": "b",
+        "data": [50, "-", 40, 35, 28, "-", 22]
+      },
+      {
+        "name": "促销B",
+        "type": "bar",
+        "stack": "b",
+        "data": [20, 60, 140, 10, "-", 45, 30]
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "category": "electronics",
+      "price": 7999.00,
+      "stock": 50,
+      "sales": 128,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/007bff/ffffff?text=iPhone",
+      "description": "苹果最新旗舰手机，搭载A17 Pro芯片，支持5G网络"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air M2",
+      "category": "electronics",
+      "price": 8999.00,
+      "stock": 30,
+      "sales": 85,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/28a745/ffffff?text=MacBook",
+      "description": "轻薄便携的笔记本电脑，搭载M2芯片，续航能力出色"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max 270",
+      "category": "clothing",
+      "price": 899.00,
+      "stock": 120,
+      "sales": 256,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/dc3545/ffffff?text=Nike",
+      "description": "经典运动鞋，舒适透气，适合日常运动和休闲穿着"
+    },
+    {
+      "id": 4,
+      "name": "《深入理解计算机系统》",
+      "category": "books",
+      "price": 139.00,
+      "stock": 200,
+      "sales": 89,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/6f42c1/ffffff?text=CSAPP",
+      "description": "计算机科学经典教材，深入讲解计算机系统原理"
+    },
+    {
+      "id": 5,
+      "name": "宜家北欧风餐桌",
+      "category": "home",
+      "price": 1299.00,
+      "stock": 15,
+      "sales": 23,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/fd7e14/ffffff?text=Table",
+      "description": "简约北欧风格餐桌，实木材质，适合4-6人使用"
+    },
+    {
+      "id": 6,
+      "name": "Uniqlo 基础款T恤",
+      "category": "clothing",
+      "price": 59.00,
+      "stock": 500,
+      "sales": 1024,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/20c997/ffffff?text=T-Shirt",
+      "description": "优质棉质T恤，多色可选，舒适百搭"
+    },
+    {
+      "id": 7,
+      "name": "AirPods Pro 2",
+      "category": "electronics",
+      "price": 1899.00,
+      "stock": 0,
+      "sales": 67,
+      "status": "inactive",
+      "image": "https://via.placeholder.com/200x200/6c757d/ffffff?text=AirPods",
+      "description": "苹果无线耳机，主动降噪，音质出色"
+    },
+    {
+      "id": 8,
+      "name": "《Vue.js设计与实现》",
+      "category": "books",
+      "price": 89.00,
+      "stock": 80,
+      "sales": 156,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/17a2b8/ffffff?text=Vue.js",
+      "description": "Vue.js框架深度解析，适合前端开发者学习"
+    },
+    {
+      "id": 9,
+      "name": "智能扫地机器人",
+      "category": "home",
+      "price": 2599.00,
+      "stock": 25,
+      "sales": 45,
+      "status": "draft",
+      "image": "https://via.placeholder.com/200x200/ffc107/ffffff?text=Robot",
+      "description": "智能清扫，自动回充，支持手机APP控制"
+    },
+    {
+      "id": 10,
+      "name": "Adidas 运动外套",
+      "category": "clothing",
+      "price": 399.00,
+      "stock": 75,
+      "sales": 134,
+      "status": "active",
+      "image": "https://via.placeholder.com/200x200/e83e8c/ffffff?text=Adidas",
+      "description": "运动休闲外套，防风透气，适合春秋季节穿着"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "orderNumber": "ORD202311160001",
+      "userId": 1,
+      "userName": "张三",
+      "amount": 8999.00,
+      "status": "completed",
+      "createTime": "2023-11-10T14:30:00",
+      "items": [
+        {
+          "id": 1,
+          "name": "MacBook Air M2",
+          "price": 8999.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/28a745/ffffff?text=MacBook"
+        }
+      ],
+      "shippingAddress": {
+        "receiver": "张三",
+        "phone": "13800138000",
+        "address": "北京市朝阳区xxx街道xxx号"
+      }
+    },
+    {
+      "id": 2,
+      "orderNumber": "ORD202311160002",
+      "userId": 2,
+      "userName": "李四",
+      "amount": 8898.00,
+      "status": "shipped",
+      "createTime": "2023-11-12T10:15:00",
+      "items": [
+        {
+          "id": 2,
+          "name": "iPhone 15 Pro",
+          "price": 7999.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/007bff/ffffff?text=iPhone"
+        },
+        {
+          "id": 3,
+          "name": "Nike Air Max 270",
+          "price": 899.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/dc3545/ffffff?text=Nike"
+        }
+      ],
+      "shippingAddress": {
+        "receiver": "李四",
+        "phone": "13900139000",
+        "address": "上海市浦东新区xxx路xxx号"
+      }
+    },
+    {
+      "id": 3,
+      "orderNumber": "ORD202311160003",
+      "userId": 3,
+      "userName": "王五",
+      "amount": 228.00,
+      "status": "paid",
+      "createTime": "2023-11-14T16:20:00",
+      "items": [
+        {
+          "id": 4,
+          "name": "《深入理解计算机系统》",
+          "price": 139.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/6f42c1/ffffff?text=CSAPP"
+        },
+        {
+          "id": 5,
+          "name": "《Vue.js设计与实现》",
+          "price": 89.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/17a2b8/ffffff?text=Vue.js"
+        }
+      ],
+      "shippingAddress": {
+        "receiver": "王五",
+        "phone": "13700137000",
+        "address": "广州市天河区xxx大道xxx号"
+      }
+    },
+    {
+      "id": 4,
+      "orderNumber": "ORD202311160004",
+      "userId": 1,
+      "userName": "张三",
+      "amount": 1899.00,
+      "status": "pending",
+      "createTime": "2023-11-15T09:30:00",
+      "items": [
+        {
+          "id": 6,
+          "name": "AirPods Pro 2",
+          "price": 1899.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/6c757d/ffffff?text=AirPods"
+        }
+      ],
+      "shippingAddress": {
+        "receiver": "张三",
+        "phone": "13800138000",
+        "address": "北京市朝阳区xxx街道xxx号"
+      }
+    },
+    {
+      "id": 5,
+      "orderNumber": "ORD202311160005",
+      "userId": 4,
+      "userName": "赵六",
+      "amount": 399.00,
+      "status": "cancelled",
+      "createTime": "2023-11-13T11:45:00",
+      "items": [
+        {
+          "id": 7,
+          "name": "Adidas 运动外套",
+          "price": 399.00,
+          "quantity": 1,
+          "image": "https://via.placeholder.com/60x60/e83e8c/ffffff?text=Adidas"
+        }
+      ],
+      "shippingAddress": {
+        "receiver": "赵六",
+        "phone": "13600136000",
+        "address": "深圳市南山区xxx街道xxx号"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nickname": "张三",
+      "phone": "13800138000",
+      "email": "zhangsan@example.com",
+      "level": 3,
+      "status": "active",
+      "avatar": "https://via.placeholder.com/100/28a745/ffffff?text=Z",
+      "registerTime": "2023-01-15T10:30:00",
+      "totalSpent": 15999.00,
+      "orderCount": 8
+    },
+    {
+      "id": 2,
+      "nickname": "李四",
+      "phone": "13900139000",
+      "email": "lisi@example.com",
+      "level": 2,
+      "status": "active",
+      "avatar": "https://via.placeholder.com/100/007bff/ffffff?text=L",
+      "registerTime": "2023-03-20T14:20:00",
+      "totalSpent": 8898.00,
+      "orderCount": 5
+    },
+    {
+      "id": 3,
+      "nickname": "王五",
+      "phone": "13700137000",
+      "email": "wangwu@example.com",
+      "level": 1,
+      "status": "active",
+      "avatar": "https://via.placeholder.com/100/dc3545/ffffff?text=W",
+      "registerTime": "2023-06-10T09:15:00",
+      "totalSpent": 1228.00,
+      "orderCount": 3
+    },
+    {
+      "id": 4,
+      "nickname": "赵六",
+      "phone": "13600136000",
+      "email": "zhaoliu@example.com",
+      "level": 1,
+      "status": "frozen",
+      "avatar": "https://via.placeholder.com/100/6c757d/ffffff?text=Z",
+      "registerTime": "2023-08-05T16:40:00",
+      "totalSpent": 399.00,
+      "orderCount": 1
+    },
+    {
+      "id": 5,
+      "nickname": "孙七",
+      "phone": "13500135000",
+      "email": "sunqi@example.com",
+      "level": 4,
+      "status": "active",
+      "avatar": "https://via.placeholder.com/100/ffc107/ffffff?text=S",
+      "registerTime": "2022-11-20T11:25:00",
+      "totalSpent": 35600.00,
+      "orderCount": 15
+    },
+    {
+      "id": 6,
+      "nickname": "周八",
+      "phone": "13400134000",
+      "email": "zhouba@example.com",
+      "level": 2,
+      "status": "active",
+      "avatar": "https://via.placeholder.com/100/17a2b8/ffffff?text=Z",
+      "registerTime": "2023-05-12T13:50:00",
+      "totalSpent": 6780.00,
+      "orderCount": 6
+    }
+  ]
+}
